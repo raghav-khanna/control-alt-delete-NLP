@@ -25,7 +25,7 @@ nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 
 # %%
-file = open(r"OS.txt",encoding='utf-8')
+file = open(r"updated_book_text.txt",encoding='utf-8')
 wordslist = file.read().splitlines() # to escape \n occurence
 wordslist = [i for i in wordslist if i!='']
 text = " ".join(wordslist)
