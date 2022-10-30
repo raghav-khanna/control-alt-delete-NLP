@@ -1,4 +1,4 @@
-# control-alt-elite-NLP
+# ctrl-alt-elite-NLP
 ## NLP Project Round-1 Submission
 # Team Members - 
 1. Nirnay Korde(20UCS133) 
