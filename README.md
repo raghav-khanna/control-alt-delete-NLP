@@ -1,2 +1,7 @@
 # control-alt-elite-NLP
-This repository contains the code files for Data Processing using NLP libraries in python
+## NLP Project Round-1 Submission
+# Team Members - 
+1. Nirnay Korde(20UCS133) 
+1. Raghav Khanna(20UCS153) 
+1. Sourav Jain(20UCS198) 
+1. Prateek Jain(20UCS145)
